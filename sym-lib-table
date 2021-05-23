@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Tesla_Connector)(type Legacy)(uri ${KIPRJMOD}/Tesla_Connector.lib)(options "")(descr ""))
+  (lib (name Tesla_Transistor)(type Legacy)(uri ${KIPRJMOD}/Tesla_Transistor.lib)(options "")(descr ""))
+  (lib (name Tesla_Diode)(type Legacy)(uri ${KIPRJMOD}/Tesla_Diode.lib)(options "")(descr ""))
+)
